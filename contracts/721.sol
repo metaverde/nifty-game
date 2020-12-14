@@ -7,12 +7,12 @@ import "./IERC721.sol";
 import "./Metadata.sol";
 import "./IERC721Enumerable.sol";
 import "./IERC721Receiver.sol";
-import "../../introspection/ERC165.sol";
-import "SafeMath.sol";
-import "../../utils/Address.sol";
-import "../../utils/EnumerableSet.sol";
-import "../../utils/EnumerableMap.sol";
-import "/Strings.sol";
+import "./ERC165.sol";
+import "./SafeMath.sol";
+import "./Address.sol";
+import "./EnumerableSet.sol";
+import "./EnumerableMap.sol";
+import "./Strings.sol";
 
 /**
  * @title ERC721 Non-Fungible Token Standard basic implementation
